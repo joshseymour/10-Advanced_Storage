@@ -1,0 +1,45 @@
+.ml-auto {
+  left: auto !important;
+  right: 0px;
+}
+
+.empty-row {
+  margin: 20px
+}
+
+.img-fluid {
+  max-width: 35%;
+  height: auto
+}
+
+.img-compare {
+  max-width: 75%;
+  height: auto
+}
+
+.container {
+  background-color: white
+}
+
+h1 {
+  color: teal;
+}
+
+h3 {
+  color: teal;
+}
+
+footer {
+  color: #eee
+}
+
+body {
+  background-color: #eee
+}
+
+
+
+p {
+  background-color: white
+}
+
