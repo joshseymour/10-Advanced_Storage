@@ -1,0 +1,9 @@
+Summary: Welcome to the Latitude with Attitude website</br></br> The purpose of this site to provide the results of a project that looked at different forms of weather, by latitude. 
+
+Latitude vs. Temp - As suspected, the temperature recorded in cities increase as you approach the Equator (i.e. 0 Latitude). Additionally, you can see that cities in the souther hemisphere (neg (-) latitude have higher temperatures, which would indicate that the norther hemisphere is going through their winter season while the southern is going through their summer.
+Latitude vs. Wind Speed - There are three prevailing wind belts within each hemisphere: Tropical Easterlies (0 - 30 degrees Latitude), Prevailing Westerlies (30-60 degrees Latitude) and Polar Easterlies (60-90 degrees Latitude).  In reviwing the data, it would appear that the Polar Easterly winds typically have the highest wind speeds.
+
+Latitude vs. Humidity - Cities around the equator tend to have more humid.
+
+Latitude vs. Cloudiness - There doesn't seem to be any correlation between latitude and % of cloudiness.
+
