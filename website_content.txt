@@ -1,9 +1,14 @@
-Summary: Welcome to the Latitude with Attitude website</br></br> The purpose of this site to provide the results of a project that looked at different forms of weather, by latitude. 
+Summary: Welcome to the Latitude with Attitude website</br></br> The purpose of this site to provide the results of a project that looked at weather experienced in cities around the world, by latitude. </br></br> To view the findings of the project, select one of the links in the dropdown menu "Plots".  You can view all of the results together to compare results, which is available on the "Comparison" page.  If you would like to view the underlying data, please visit the "Data" tab.
 
 Latitude vs. Temp - As suspected, the temperature recorded in cities increase as you approach the Equator (i.e. 0 Latitude). Additionally, you can see that cities in the souther hemisphere (neg (-) latitude have higher temperatures, which would indicate that the norther hemisphere is going through their winter season while the southern is going through their summer.
 Latitude vs. Wind Speed - There are three prevailing wind belts within each hemisphere: Tropical Easterlies (0 - 30 degrees Latitude), Prevailing Westerlies (30-60 degrees Latitude) and Polar Easterlies (60-90 degrees Latitude).  In reviwing the data, it would appear that the Polar Easterly winds typically have the highest wind speeds.
 
-Latitude vs. Humidity - Cities around the equator tend to have more humid.
-
-Latitude vs. Cloudiness - There doesn't seem to be any correlation between latitude and % of cloudiness.
-
+Latitude vs. Humidity - It appears that cities in the northern hemisphere were experiencing higher percentage (%) of humidity at the time the data was collected.  
+This may seem counter intuitive as warmer weather is typically associated with higher humidity, which in viewing the Max Temperature page the southern hemisphere had higher temperatures.  
+However, since cold air holds less moisture than warm, it is earier to saturate the parcel of cold air.  
+As a result, relative humidity is actually higher in winter than summer. 
+Click <a href=" > here </a> if you would like to learn more about relative humidity.
+Latitude vs. Cloudiness - Clouds form as a result of the atmospheric circulation pattern, which is where the rising air meets the decending air.  
+Decending air typically occurs 15 - 30 degrees above or below the equator, which results in higher tempuratures, drier air and land and less clouds.  
+This pattern is supported by the data collected for cloudiness as the data points cluster on the left and right sides of the equator, but are sparse around the equator (0 degree Latitude).  
+Click <a href=" > here </a> to learn more about the atmospheric circulation patterns.   
